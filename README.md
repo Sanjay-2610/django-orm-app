@@ -50,10 +50,12 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT
 
 ### serveroutput
-![](./so(2).png)
+![so (2)](https://user-images.githubusercontent.com/91368803/233094322-425f520d-d551-4dc4-bf3b-3f76b1bb2ca6.png)
 
 ### clientoutput
-![](./co.png)
+![co](https://user-images.githubusercontent.com/91368803/233094423-311d5aa5-454d-497c-a947-c85beb26881b.png)
+
+
 
 ## RESULT
 Thus the program has been executed successfully
